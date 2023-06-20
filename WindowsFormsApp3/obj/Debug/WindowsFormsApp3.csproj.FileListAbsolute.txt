@@ -1,0 +1,17 @@
+G:\deletethis\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+G:\deletethis\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+G:\deletethis\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+G:\deletethis\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.dll
+G:\deletethis\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.dll
+G:\deletethis\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.xml
+G:\deletethis\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.xml
+G:\deletethis\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\EntityFramework.resources.dll
+G:\deletethis\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+G:\deletethis\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+G:\deletethis\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+G:\deletethis\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+G:\deletethis\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+G:\deletethis\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+G:\deletethis\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+G:\deletethis\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+G:\deletethis\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
